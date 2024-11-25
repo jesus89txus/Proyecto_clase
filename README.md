@@ -19,10 +19,17 @@ en la actualidad.*
 
 ## IMAGENES
 
-
+## 1
 ![Captura creacion carpeta imagenes, la cual añado](images/captura_git_cd.png)
-
+## 2
 ![Captura primer añadiendo primer commit](images/commit_2_a.png)
+## 3
+![Captura primer añadiendo primer commit](images/commit_3.png)
+## 4
+![Captura primer añadiendo primer commit](images/commit1_en_rama_practica.png)
+## 5
+![Captura primer añadiendo primer commit](images/merge_practica.png)
+
 
 # ## Trabajos realizados
 

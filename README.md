@@ -27,3 +27,4 @@ en la actualidad.*
 ## Finalizamos con...
 
 Información sobre la licencia del proyecto.
+Prueba de la rama (añado contenido para hacer un merge).
